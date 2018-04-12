@@ -8,7 +8,7 @@ In Linux, you can probably get Python 3 simply with
 `apt install python3`
 in Ubuntu, or another package manager, determined by your Linux distribution.
 
-In Windows, you can download it from [the official website of Python][python.org].
+In Windows, you can download it from [the official website of Python](https://www.python.org/).
 
 After installation, you can check your Python version by typing `python` on the console.
 
